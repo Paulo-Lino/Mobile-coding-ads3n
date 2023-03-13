@@ -1,0 +1,186 @@
+{
+  "background_color": "#ffffff",
+  "description": "Armazene suas receitas de maneira rápida e fácil! Traga praticidade para o seu dia a dia e tenha Suas Receitas na palma da Sua mão.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "SuaReceita™",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Sua Receita™",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "food"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "assets/img/16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "assets/img/20.png",
+      "type": "image/png",
+      "sizes": "20x20"
+    },
+    {
+      "src": "assets/img/29.png",
+      "type": "image/png",
+      "sizes": "29x29"
+    },
+    {
+      "src": "assets/img/32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "assets/img/40.png",
+      "type": "image/png",
+      "sizes": "40x40"
+    },
+    {
+      "src": "assets/img/48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "assets/img/50.png",
+      "type": "image/png",
+      "sizes": "50x50"
+    },
+    {
+      "src": "assets/img/55.png",
+      "type": "image/png",
+      "sizes": "55x55"
+    },
+    {
+      "src": "assets/img/57.png",
+      "type": "image/png",
+      "sizes": "57x57"
+    },
+    {
+      "src": "assets/img/58.png",
+      "type": "image/png",
+      "sizes": "58x58"
+    },
+    {
+      "src": "assets/img/60.png",
+      "type": "image/png",
+      "sizes": "60x60"
+    },
+    {
+      "src": "assets/img/66.png",
+      "type": "image/png",
+      "sizes": "66x66"
+    },
+    {
+      "src": "assets/img/72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "assets/img/76.png",
+      "type": "image/png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "assets/img/80.png",
+      "type": "image/png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "assets/img/87.png",
+      "type": "image/png",
+      "sizes": "87x87"
+    },
+    {
+      "src": "assets/img/88.png",
+      "type": "image/png",
+      "sizes": "88x88"
+    },
+    {
+      "src": "assets/img/92.png",
+      "type": "image/png",
+      "sizes": "92x92"
+    },
+    {
+      "src": "assets/img/100.png",
+      "type": "image/png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "assets/img/102.png",
+      "type": "image/png",
+      "sizes": "102x102"
+    },
+    {
+      "src": "assets/img/114.png",
+      "type": "image/png",
+      "sizes": "114x114"
+    },
+    {
+      "src": "assets/img/120.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "assets/img/128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "assets/img/152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "assets/img/167.png",
+      "type": "image/png",
+      "sizes": "167x167"
+    },
+    {
+      "src": "assets/img/172.png",
+      "type": "image/png",
+      "sizes": "172x172"
+    },
+    {
+      "src": "assets/img/180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "assets/img/196.png",
+      "type": "image/png",
+      "sizes": "196x196"
+    },
+    {
+      "src": "assets/img/196.png",
+      "type": "image/png",
+      "sizes": "196x196",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/img/216.png",
+      "type": "image/png",
+      "sizes": "216x216"
+    },
+    {
+      "src": "assets/img/256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "assets/img/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "assets/img/1024.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ],
+	
+  "shortcuts": []
+}

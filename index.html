@@ -4,6 +4,9 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#FF3131">
+
+  <link rel="manifest" href="manifest.json">
 
   <title>SuaReceita</title>
   <meta content="" name="description"
@@ -11,7 +14,7 @@
   <meta content="" name="keywords" content="Acesse aqui!">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/favicon.jpg" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -720,7 +723,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">Paulo Lino</a>
+        Designed by <a href="https://www.instagram.com/lino_worksofc/">Paulo Lino</a>
       </div>
     </div>
 
@@ -741,6 +744,14 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('service-worker.js')
+    }
+    </script>
+
 
 </body>
 
